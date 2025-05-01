@@ -1,0 +1,1 @@
+Using machine learning methods and big data tools, this study seeks to predict consumer attrition (churn) in the telecom sector. Customer churn is the cancellation of services by a customer or the loss of clients to a rival. Our goal is to forecast consumer behavior and enable companies to lower churn rates by means of several variables.
